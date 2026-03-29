@@ -78,16 +78,6 @@ Each dot is one randomly generated portfolio. The colour shows
 the Sharpe ratio (yellow = high, purple = low). The left edge
 of the cloud is the Efficient Frontier.
 
-### Optimised vs Equal-Weight Portfolio
-
-| | Equal Weight | Optimised |
-|--|-------------|-----------|
-| Annual Return | — | — |
-| Annual Volatility | — | — |
-| Sharpe Ratio | — | — |
-
-> Run the notebook to see the actual values — they update automatically
-> with the latest market data each time.
 
 ### Optimal Portfolio Weights
 
@@ -131,13 +121,6 @@ This is Markowitz diversification working exactly as the theory predicts.
 
 ## How to Run
 
-```bash
-pip install numpy pandas matplotlib yfinance
-```
-
-Open `markowitz_portfolio_final.ipynb` in Jupyter or Google Colab
-and run all cells. The notebook downloads fresh data automatically.
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[your-username]/markowitz-portfolio/blob/main/markowitz_portfolio_final.ipynb)
 
 ---
@@ -145,11 +128,11 @@ and run all cells. The notebook downloads fresh data automatically.
 ## Tech Stack
 
 ```
-Python     — core language
-NumPy      — matrix operations, portfolio math
-Pandas     — data manipulation, returns computation
-Matplotlib — all visualisations
-yfinance   — real NSE market data
+Python    
+NumPy      
+Pandas     
+Matplotlib 
+yfinance   
 ```
 
 ---
