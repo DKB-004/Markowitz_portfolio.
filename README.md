@@ -4,9 +4,6 @@ This project implements Harry Markowitz's mean-variance portfolio theory
 to find the optimal combination of 5 Nifty 50 stocks that maximises
 risk-adjusted return (Sharpe ratio).
 
-I built this as part of my self-learning journey in financial mathematics
-during my MSc Mathematics program.
-
 ---
 
 ## What is Markowitz Portfolio Theory?
