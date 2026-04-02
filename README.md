@@ -1,8 +1,6 @@
 # Markowitz Portfolio Optimisation — NSE Stocks
 
-This project implements Harry Markowitz's mean-variance portfolio theory
-to find the optimal combination of 5 Nifty 50 stocks that maximises
-risk-adjusted return (Sharpe ratio).
+This repository provides a Python implementation of Modern Portfolio Theory (MPT) to optimize a 5-stock portfolio selected from the Nifty 50. The model calculates the optimal weights required to maximize the Sharpe Ratio based on historical risk-adjusted returns.
 
 ---
 
