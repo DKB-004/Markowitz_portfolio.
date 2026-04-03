@@ -1,6 +1,6 @@
 # Markowitz Portfolio Optimisation — NSE Stocks
 
-This repository provides a Python implementation of Modern Portfolio Theory (MPT) to optimize a 5-stock portfolio selected from the Nifty 50. The model calculates the optimal weights required to maximize the Sharpe Ratio based on historical risk-adjusted returns.
+This repository provides a Python implementation of Modern Portfolio Theory (MPT) to optimize a 5-stock portfolio selected from the Nifty 50. The goal was to find the optimal allocation that maximises the Sharpe Ratio — essentially, the best risk-adjusted return you can get from combining these stocks.
 
 ---
 
