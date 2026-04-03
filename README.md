@@ -116,7 +116,7 @@ This is Markowitz diversification working exactly as the theory predicts.
 
 ## How to Run
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[your-username]/markowitz-portfolio/blob/main/markowitz_portfolio_final.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b8_S1H7DtwdXyLm-sOr-Q68l154Ba_Ss#scrollTo=Dt-oEzuRO9UK)
 
 ---
 
